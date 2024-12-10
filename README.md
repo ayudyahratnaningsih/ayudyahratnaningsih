@@ -1,4 +1,4 @@
-# Hi there, I'm Dyah Ayu - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Dyah Ayu - (www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250AQ) 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
