@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [Universitas Telkom Bandung](https://telkomuniversity.ac.id/) | Associate's degree Computer Technology | Bandung `2021-2024`
+#### 1. [Universitas Telkom Bandung](https://telkomuniversity.ac.id/) | Associate's Degree Computer Technology | Bandung `2021-2024`
    - Receive a 100 percent opes scholarship from the beginning of the course until the end of the course.
    - Learn programming such as C++, Python, HTML, Java, Arduino UNO.
    - Learning networks such as CISCO, Mikrotik, and network security.
