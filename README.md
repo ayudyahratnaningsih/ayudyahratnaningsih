@@ -1,4 +1,4 @@
-# Hi there, I'm Dyah Ayu Ratna - [Linkedin](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250AQ) 👋
+# Hi there, I'm Dyah Ayu Ratna - [LinkedIn](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250AQ) 👋
 ## About me:
 - 🔭 I’m currently working as Data Analyst
 - 🌱 I’m currently learning Python and Javascript
