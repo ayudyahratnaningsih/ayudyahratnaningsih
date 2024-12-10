@@ -38,11 +38,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://x.com/_dyahayuratna#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://x.com/_dyahayuratna#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250#gh-dark-mode-only)
