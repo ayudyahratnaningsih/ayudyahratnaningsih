@@ -1,23 +1,23 @@
-# Hi there, I'm Dyah Ayu - [Linkedin](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250AQ) 👋
+# Hi there, I'm Dyah Ayu Ratna - [Linkedin](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250AQ) 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
+- 🔭 I’m currently working as Data Analyst
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: dyahayuratna.252@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [Universitas Telkom Bandung](https://telkomuniversity.ac.id/) | Bachelor of Electrical Engineering | Bandung `2021-2024`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+ #### 2. [SMK Telkom Shandy Putra Jakarta](https://smktelkom-jkt.sch.id/) | Teknik Jaringan Akses | Jakarta `2018-2021`
    - Chief of Rohkris
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
+#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Data Analyst Intern | Bandung `2023-2024`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
