@@ -9,19 +9,28 @@
 
 ## Education:
 
-#### 1. [Universitas Telkom Bandung](https://telkomuniversity.ac.id/) | Bachelor of Electrical Engineering | Bandung `2021-2024`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+#### 1. [Universitas Telkom Bandung](https://telkomuniversity.ac.id/) | Associate's degree Computer Technology | Bandung `2021-2024`
+   - Receive a 100 percent opes scholarship from the beginning of the course until the end of the course.
+   - Learn programming such as C++, Python, HTML, Java, Arduino UNO.
+   - Learning networks such as CISCO, Mikrotik, and network security.
+   - Learning computer hardware or arduino such as making line follower projects, and smart gardens with IoT.
+     
  #### 2. [SMK Telkom Shandy Putra Jakarta](https://smktelkom-jkt.sch.id/) | Teknik Jaringan Akses | Jakarta `2018-2021`
-   - Chief of Rohkris
+   - 
 
 ## Work Experience:
 #### 1. [PT. Indo Trans Teknologi Bandung](https://www.transtrack.co/id) | Data Analyst Intern | Bandung `2023-2024`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
----
+   - Successfully process raw data and perform cleaning to remove anomalies in the data using python or microsoft excel programs.
+   - Successfully visualize data using power BI connected to google sheets or microsoft excel.
+   - Successfully create reports from data that has been managed in the form of dashboards, PDF reports, presentations, and so on.
+   - Successfully create monthly reports for the company, both for internal and for projects
+
+## Organization:
+#### 1. [Himpunan Mahasisw](https://www.instagram.com/himatek_official/) | Sekretaris | Bandung `2023-2024`
+   - Successfully process raw data and perform cleaning to remove anomalies in the data using python or microsoft excel programs.
+   - Successfully visualize data using power BI connected to google sheets or microsoft excel.
+   - Successfully create reports from data that has been managed in the form of dashboards, PDF reports, presentations, and so on.
+   - Successfully create monthly reports for the company, both for internal and for projects
 
 ### Languages and Tools:
 
