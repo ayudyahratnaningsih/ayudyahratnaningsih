@@ -1,6 +1,6 @@
 # Hi there, I'm Dyah Ayu Ratna - [LinkedIn](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250AQ) 👋
 ## About me:
-- 🔭 I currently graduated from Telkom University Bandung
+- 🔭 I currently fresh graduated from Telkom University Bandung
 - 🌱 I am currently studying Networking, programming, and data processing
 - 👯 I want to collaborate as a Network engineer, data, and things related to IT
 - 💬 Ask me about anything
