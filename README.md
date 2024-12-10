@@ -47,5 +47,5 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/)
