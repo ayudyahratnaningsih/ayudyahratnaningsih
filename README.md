@@ -17,14 +17,10 @@
    - Chief of Rohkris
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Data Analyst Intern | Bandung `2023-2024`
+#### 1. [PT. Indo Trans Teknologi Bandung](https://www.transtrack.co/id) | Data Analyst Intern | Bandung `2023-2024`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
 ---
 
 ### Languages and Tools:
