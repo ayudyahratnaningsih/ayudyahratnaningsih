@@ -41,10 +41,11 @@
 
 ## Organization:
 #### 1. [Himpunan Mahasiswa](https://www.instagram.com/himatek_official/) | Secretary | Bandung `2022-2023`
-   - Successfully process raw data and perform cleaning to remove anomalies in the data using python or microsoft excel programs.
-   - Successfully visualize data using power BI connected to google sheets or microsoft excel.
-   - Successfully create reports from data that has been managed in the form of dashboards, PDF reports, presentations, and so on.
-   - Successfully create monthly reports for the company, both for internal and for projects
+   - Recording and reviewing the results of meetings conducted. Internal and external meetings.
+   - Organize scheduling if there are external meetings, such as meetings with DPM, and so on, as well as organize and review scheduling for certain events.
+   - Making certificates or placards if there is an external webinar.
+   - Managing administration, namely making loan letters when there are events or letters of entry and exit of activities, and asking for signatures up to the head of the study program.
+   - Make and collect LPJ that has been made by each field. 
 
 #### 2. [Organisasi Siswa Intra Sekolah](https://www.instagram.com/osissmktelkom.jkt/) | Coordinating Secretary for State Defense | Jakarta `2019-2021`
    - Successfully process raw data and perform cleaning to remove anomalies in the data using python or microsoft excel programs.
