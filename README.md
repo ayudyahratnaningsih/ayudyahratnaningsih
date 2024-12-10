@@ -1,11 +1,10 @@
 # Hi there, I'm Dyah Ayu Ratna - [LinkedIn](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250AQ) 👋
 ## About me:
-- 🔭 I’m currently working as Data Analyst
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: dyahayuratna.252@gmail.com
+🔭 I currently graduated from Telkom University Bandung
+🌱 I am currently studying Networking, programming, and data processing
+👯 I want to collaborate as a Network engineer, data, and things related to IT
+💬 Ask me about anything
+📫 How to contact me: dyahayuratna.252@gmail.com
 
 ## Education:
 
