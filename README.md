@@ -44,8 +44,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/dyah-ayu-ratna-ningsih-8797a3250#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/_dyahayurn/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/_dyahayurn/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/_dyahayurn/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/_dyahayurn/#gh-dark-mode-only)
