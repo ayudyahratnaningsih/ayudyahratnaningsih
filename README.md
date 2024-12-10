@@ -15,18 +15,34 @@
    - Learning networks such as CISCO, Mikrotik, and network security.
    - Learning computer hardware or arduino such as making line follower projects, and smart gardens with IoT.
      
- #### 2. [SMK Telkom Shandy Putra Jakarta](https://smktelkom-jkt.sch.id/) | Teknik Jaringan Akses | Jakarta `2018-2021`
-   - 
+ #### 2. [SMK Telkom Shandy Putra Jakarta](https://smktelkom-jkt.sch.id/) | Access Network Engineering | Jakarta `2018-2021`
+   - Learning Fiber Optics.
+   - Learn to perform fiber optic installations such as FTTH, FTTO, FTTB, and so on.
+   - Studying networks such as CISCO using packet tracer.
+   - Learning things about satellites such as calculating azimuth, elevation, and so on.
+   - Studying land, sea, and air cables.
 
 ## Work Experience:
 #### 1. [PT. Indo Trans Teknologi Bandung](https://www.transtrack.co/id) | Data Analyst Intern | Bandung `2023-2024`
    - Successfully process raw data and perform cleaning to remove anomalies in the data using python or microsoft excel programs.
    - Successfully visualize data using power BI connected to google sheets or microsoft excel.
    - Successfully create reports from data that has been managed in the form of dashboards, PDF reports, presentations, and so on.
-   - Successfully create monthly reports for the company, both for internal and for projects
+   - Successfully create monthly reports for the company, both for internal and for projects.
+
+#### 1. [D3 Teknologi Komputer](https://www.transtrack.co/id) | Practicum Assistant | Bandung `2023-2024`
+   - Successfully process raw data and perform cleaning to remove anomalies in the data using python or microsoft excel programs.
+   - Successfully visualize data using power BI connected to google sheets or microsoft excel.
+   - Successfully create reports from data that has been managed in the form of dashboards, PDF reports, presentations, and so on.
+   - Successfully create monthly reports for the company, both for internal and for projects.
 
 ## Organization:
-#### 1. [Himpunan Mahasisw](https://www.instagram.com/himatek_official/) | Sekretaris | Bandung `2023-2024`
+#### 1. [Himpunan Mahasiswa](https://www.instagram.com/himatek_official/) | Secretary | Bandung `2023-2024`
+   - Successfully process raw data and perform cleaning to remove anomalies in the data using python or microsoft excel programs.
+   - Successfully visualize data using power BI connected to google sheets or microsoft excel.
+   - Successfully create reports from data that has been managed in the form of dashboards, PDF reports, presentations, and so on.
+   - Successfully create monthly reports for the company, both for internal and for projects
+
+#### 2. [Organisasi Siswa Intra Sekolah](https://www.instagram.com/osissmktelkom.jkt/) | Coordinating Secretary for State Defense | Jakarta `2023-2024`
    - Successfully process raw data and perform cleaning to remove anomalies in the data using python or microsoft excel programs.
    - Successfully visualize data using power BI connected to google sheets or microsoft excel.
    - Successfully create reports from data that has been managed in the form of dashboards, PDF reports, presentations, and so on.
