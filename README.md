@@ -48,10 +48,15 @@
    - Make and collect LPJ that has been made by each field. 
 
 #### 2. [Organisasi Siswa Intra Sekolah](https://www.instagram.com/osissmktelkom.jkt/) | Coordinating Secretary for State Defense | Jakarta `2019-2021`
-   - Successfully process raw data and perform cleaning to remove anomalies in the data using python or microsoft excel programs.
-   - Successfully visualize data using power BI connected to google sheets or microsoft excel.
-   - Successfully create reports from data that has been managed in the form of dashboards, PDF reports, presentations, and so on.
-   - Successfully create monthly reports for the company, both for internal and for projects
+   - Plan work programs with predetermined fields, such as competition activities, social events, and seminars with other members.
+   - Arrange the implementation of activities in accordance with the plans and work programs that have been approved for the next year.
+   - Monitor the activities carried out, to ensure members work according to the tasks that have been given and evaluate their performance
+   - Hold regular meetings to discuss the progress of the work program and evaluate activities that have been or will be carried out.
+   - Become a bridge between the school and extracurricular activities, so that extracurricular activities can continue to be active, and excel.
+   - After the activity is completed, the coordinator is responsible for making an activity evaluation report that includes what has been achieved, the problems faced, and the solutions taken.
+   - Make documentation of each activity carried out according to the field obtained.
+   - Together with the OSIS treasurer, the coordinator submits a budget for the implementation of sekbid activities, and oversees the use of funds for activities to match the approved budget.
+
 
 ### Languages and Tools:
 
