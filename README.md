@@ -70,6 +70,8 @@
 <img align="left" alt="C++" width="30px" src="https://a.fsdn.com/allura/p/dev-cpp/icon?1652311597" style="padding-right:10px;" />
 <img align="left" alt="Arduino Uno" width="30px" src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="50px" src="https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://code.visualstudio.com/assets/images/code-stable.png" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="30px" src="https://image.shutterstock.com/image-vector/logo-vector-html-5-low-260nw-1601607721.jpg" style="padding-right:10px;" />
 
 <br />
 <br />
