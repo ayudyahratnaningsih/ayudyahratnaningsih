@@ -69,6 +69,7 @@
 <img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />
 <img align="left" alt="C++" width="30px" src="https://a.fsdn.com/allura/p/dev-cpp/icon?1652311597" style="padding-right:10px;" />
 <img align="left" alt="Arduino Uno" width="30px" src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" style="padding-right:10px;" />
+<img align="left" alt="Canva" width="30px" src="https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg" style="padding-right:10px;" />
 
 <br />
 <br />
