@@ -65,7 +65,7 @@
 <img align="left" alt="Cisco" width="80px" src="https://www.netacad.com/sfa-assets/images/svg/netacad_logo_black.svg" style="padding-right:10px;" />
 <img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />
 <img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />
-<img align="left" alt="Tableau" width="50px" src="https://a.fsdn.com/allura/p/dev-cpp/icon?1652311597" style="padding-right:10px;" />
+<img align="left" alt="Tableau" width="30px" src="https://a.fsdn.com/allura/p/dev-cpp/icon?1652311597" style="padding-right:10px;" />
 
 <br />
 <br />
